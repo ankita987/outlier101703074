@@ -8,8 +8,8 @@ setup(
   description = 'Removes rows containing outliers from data using IQR method or Z-score method.',
   author = 'Ankita',
   author_email = 'ankitauppal99@gmail.com',
-  url = 'https://github.com/ankita987/outlier101703074',
-  download_url = 'https://github.com/ankita987/outlier101703074/archive/v_1.tar.gz',
+  url = 'https://github.com/ankita987/outlierrm101703074',
+  download_url = 'https://github.com/ankita987/outlierrm101703074/archive/v01.tar.gzz',
   keywords = ['OUTLIER REMOVAL', 'ROW REMOVAL', 'OUTLIER', 'IQR', 'Z-SCORE'],
   install_requires=[
           'pandas',
