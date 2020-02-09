@@ -1,9 +1,9 @@
 from distutils.core import setup
 
 setup(
-  name = 'outlier101703074',
-  packages = ['outlier101703074'],
-  version = '1',
+  name = 'outlierrm101703074',
+  packages = ['outlierrm101703074'],
+  version = '0.1',
   license='MIT', 
   description = 'Removes rows containing outliers from data using IQR method or Z-score method.',
   author = 'Ankita',
