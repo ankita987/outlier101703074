@@ -3,13 +3,13 @@ from distutils.core import setup
 setup(
   name = 'outlier101703074',
   packages = ['outlier101703074'],
-  version = '0.1',
+  version = '1',
   license='MIT', 
   description = 'Removes rows containing outliers from data using IQR method or Z-score method.',
   author = 'Ankita',
   author_email = 'ankitauppal99@gmail.com',
   url = 'https://github.com/ankita987/outlier101703074',
-  download_url = 'https://github.com/ankita987/outlier101703074/archive/v_01.tar.gz',
+  download_url = 'https://github.com/ankita987/outlier101703074/archive/v_1.tar.gz',
   keywords = ['OUTLIER REMOVAL', 'ROW REMOVAL', 'OUTLIER', 'IQR', 'Z-SCORE'],
   install_requires=[
           'pandas',
